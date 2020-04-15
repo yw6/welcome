@@ -3,7 +3,7 @@
 
 Hi everyone,
 
-This is Yi Wang. I am doing some work related to medical research, in particular cardiovascular system field.
+This is Yi Wang. I am doing some work related to medical research, particularly in cardiovascular system.
 
 Hopefully, I could get a little bit more understanding of ourselves using bioinformatics tools.
 
